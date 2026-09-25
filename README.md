@@ -5,6 +5,7 @@ source $HOME/.bashrc
 git clone https://github.com/petrkle/brew
 cd brew
 brew bundle
+brew install postfinance/tap/topf
 ```
 
 ## Android
